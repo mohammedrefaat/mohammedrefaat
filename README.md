@@ -8,4 +8,12 @@
 - 🌱 I’m currently learning Golang.
 
 
-<br />
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Mohammed Refat 's GitHub Stats" src="https://github-readme-stats.mohammedrefaat.vercel.app/api?username=mohammedrefaat&show_icons=true&hide_border=true" />
+
+</details>
