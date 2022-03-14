@@ -1,4 +1,4 @@
-<details>
+
 ### Hi there, I'm Mohammed Refat  
 
 
@@ -22,7 +22,7 @@ I also contribute to the following project(s):
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohammedreffat/)
 
-</details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
