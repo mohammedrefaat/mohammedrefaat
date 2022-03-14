@@ -1,3 +1,4 @@
+<details>
 ### Hi there, I'm Mohammed Refat  
 
 
@@ -8,7 +9,7 @@
 - 🌟 I create web  app backend for the next generation of consumer-facing companies.
 
 ## Projects:
- These are some freelance/side-projects I worked on:
+These are some freelance/side-projects I worked on:
 - 
 
 
