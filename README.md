@@ -10,11 +10,15 @@
 
 ## Projects:
 These are some freelance/side-projects I worked on:
-
+- Payment Gateway to receiving and verifying the required payments.
+- 
 
 ## Contributions:
 I also contribute to the following project(s):
 
+- Informix database importer to sql server.
+-
+ 
 
 
 ## Get in touch:
