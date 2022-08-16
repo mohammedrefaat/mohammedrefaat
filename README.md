@@ -10,15 +10,15 @@
 
 ## Projects:
 These are some freelance/side-projects I worked on:
-- Payment Gateway to receiving and verifying the required payments.
-- 
+- Export Password's Kaspersky Password Manager To Csv Template To Import It In Google Chrome
+-
 
 ## Contributions:
 I also contribute to the following project(s):
 
 - Informix database importer to sql server.
+- Payment Gateway to receiving and verifying the required payments.
 -
- 
 
 
 ## Get in touch:
