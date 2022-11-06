@@ -56,8 +56,8 @@ I also contribute to the following project(s):
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedrefaat&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammedrefaat&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammedrefaat&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedrefaat&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammedrefaat&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammedrefaat&theme=github_dark)
 
 
